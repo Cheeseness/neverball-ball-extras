@@ -1,0 +1,16 @@
+{
+"classname" "worldspawn"
+"drawback" "1"
+"depthmask" "1"
+"pendulum" "1"
+}
+{
+"classname" "misc_model"
+"material" "ball/tech-ball/tech-ball"
+"model" "ball/tech-ball/tech-ball.obj"
+}
+{
+"classname" "misc_model"
+"material" "ball/tech-ball/tech-ball-outer"
+"model" "ball/tech-ball/tech-ball-outer.obj"
+}

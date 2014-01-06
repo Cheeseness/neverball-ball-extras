@@ -1,0 +1,11 @@
+{
+"classname" "worldspawn"
+"pendulum" "1"
+"drawclip" "1"
+"depthmask" "1"
+}
+{
+"classname" "misc_model"
+"material" "ball/compass-ball/compass"
+"model" "ball/compass-ball/compass-outer.obj"
+}

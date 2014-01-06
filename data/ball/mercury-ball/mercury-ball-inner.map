@@ -1,0 +1,9 @@
+{
+"classname" "worldspawn"
+"pendulum" "1"
+}
+{
+"classname" "misc_model"
+"material" "ball/mercury-ball/mercury"
+"model" "ball/mercury-ball/mercury.obj"
+}

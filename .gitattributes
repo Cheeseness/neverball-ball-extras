@@ -1,0 +1,15 @@
+# Borrowed from Neverball's .gitattributes file
+
+# Attempt to handle extensionless mtrl files
+/data/ball/*/*        text=auto
+
+# Be paranoid about text=auto ambiguity
+*.jpg   -text
+*.png   -text
+*.wings -text
+
+# This is absolutely always text
+*.txt text
+*.map text
+*.obj text
+*.mtl text
